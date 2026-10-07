@@ -1,0 +1,28 @@
+# Project Outcomes & Deliverables
+
+- [x] **Project Extraction & Liberation:** Successfully extracted `jubagrowth.zip`, resolved all asset paths, removed third-party CDN locks, and isolated production artifacts.
+- [x] **Clear, Responsible Hospitality Value Proposition:** Specifically tailored for hotels, guesthouses, restaurants, conference halls, and event venues across Juba, South Sudan without unrealistic sales or booking promises.
+- [x] **Juba-First Communication & Inquiry Handoff:**
+  - [x] WhatsApp-first inquiry routing with pre-filled message generator.
+  - [x] Dual-mode channel selector (WhatsApp or Email addressed to `junubone@gmail.com`).
+  - [x] 1-Tap "Copy Inquiry Text" button with toast notification for instant pasting into WhatsApp, SMS, or Telegram.
+  - [x] Direct WhatsApp floating quick button and header contact pill.
+- [x] **Interactive Juba Venue Fit & Recommendations Hub:**
+  - [x] Hotels & Guesthouses (power backup, Wi-Fi, airport shuttle clarity).
+  - [x] Restaurants & Nile Waterfront Terraces (digital mobile menus, weekend brunch promos).
+  - [x] Conference & Workshop Halls (1-page NGO/UN workshop capacity sheets and rapid quote scripts).
+  - [x] Event Gardens & Weddings (date availability check and banquet packages).
+  - [x] Auto-populates and smoothly scrolls to the inquiry form upon selection.
+- [x] **Juba Neighborhood & District Selector:**
+  - [x] Form dropdown for Hai Malakal, Juba Town, Riverside, Tongping, Airport Road, Kololo/Buluk, Munuki/Gudele.
+- [x] **Juba Hospitality FAQ Section:**
+  - [x] Accessible, interactive accordion answering the top 5 questions of venue managers in Juba.
+- [x] **Mobile Optimization & PWA Installation:**
+  - [x] Added `manifest.json` for home-screen installation on Android and iOS.
+  - [x] Zero runtime dependencies for lightning-fast loading on 3G/4G networks in South Sudan.
+- [x] **GitHub & Vercel Deployment Readiness:**
+  - [x] Native Windows PowerShell build script (`scripts/build.ps1`) alongside Node build script (`scripts/build.mjs`).
+  - [x] Automated verification test script (`scripts/test.mjs`).
+  - [x] GitHub Actions CI workflow (`.github/workflows/ci.yml`).
+  - [x] Vercel configuration (`vercel.json`) with clean URLs and asset caching headers.
+  - [x] Git repository initialized with branch `main` and clean commit history.

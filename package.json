@@ -1,0 +1,26 @@
+{
+  "name": "juba-growth-desk",
+  "version": "1.0.0",
+  "description": "Hospitality inquiry support and marketing for Juba, South Sudan hotels, restaurants, and venues",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "node server.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node server.mjs",
+    "test": "node scripts/test.mjs"
+  },
+  "keywords": [
+    "juba",
+    "south-sudan",
+    "hospitality",
+    "marketing",
+    "hotels",
+    "inquiries"
+  ],
+  "author": "Juba Growth Desk",
+  "license": "MIT"
+}
