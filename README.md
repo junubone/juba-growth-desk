@@ -89,9 +89,9 @@ Update your public business contact coordinates in `public/site.js` and `public/
 In `public/site.js`:
 ```javascript
 const CONTACT = {
-  // Digits only with country code (211 for South Sudan). Example: "211920000000"
-  whatsapp: "211920000000",
-  whatsappDisplay: "+211 920 000 000",
+  // Digits only with country code (211 for South Sudan).
+  whatsapp: "211918509971",
+  whatsappDisplay: "+211 918 509 971",
   email: "junubone@gmail.com"
 };
 ```

@@ -1,9 +1,9 @@
 // Juba Growth Desk - Client Interactions & Inquiry Routing
 // Configurable contacts: update the WhatsApp number with the active South Sudan business line (+211...)
 const CONTACT = {
-  // Digits only with country code (211 for South Sudan). Example: "211920000000"
-  whatsapp: "211920000000",
-  whatsappDisplay: "+211 920 000 000",
+  // Digits only with country code (211 for South Sudan).
+  whatsapp: "211918509971",
+  whatsappDisplay: "+211 918 509 971",
   email: "junubone@gmail.com"
 };
 
